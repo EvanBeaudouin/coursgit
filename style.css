@@ -1,8 +1,8 @@
-*{
-  padding:0;
-  margin:0;
+hearder{
+	display:flex;
+	justify-content: space-between;
 }
 
-article{
-	background-color: lightpink;
+form [type="image"]{
+	height:2em;
 }
